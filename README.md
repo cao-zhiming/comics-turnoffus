@@ -12,12 +12,14 @@
 --------
 ![profile-pic](https://turnoff.us/image/en/profile-pic.png)
 --------
+Favorite1:
 ![ai-war](https://turnoff.us/image/en/when-ai-meets-war.png)
 --------
 ![math-json](https://turnoff.us/image/en/mathclass2018.png)
 --------
 ![npm-install](https://turnoff.us/image/en/npm-install.png)
 --------
+Favorite2:
 ![ai-git](https://turnoff.us/image/en/ai-meets-git.png)
 
 <br>
